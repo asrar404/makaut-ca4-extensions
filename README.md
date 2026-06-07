@@ -5,3 +5,5 @@
 2. [Activate Enable Right Click & Copy](https://chromewebstore.google.com/detail/pkoccklolohdacbfooifnpebakpbeipc)
 
 3. [Clipboard History Manager](https://chromewebstore.google.com/detail/ombhfdknibjljckajldielimdjcomcek)
+
+4. [AI Sider: ChatGPT + DeepSeek + Gemini](https://chromewebstore.google.com/detail/cpggpmmbmacgemcffkapmeadpnfnmkbm)
