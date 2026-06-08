@@ -11,6 +11,12 @@
 5. [MaxAI](https://chromewebstore.google.com/detail/mhnlakgilnojmhinhkckjpncpbhabphi)
 
 6. [Stylus](https://chromewebstore.google.com/detail/clngdbkpkpeebahjckkjfobafhncgmne)
-##Click Manage → Write new style.
-##Give it any name (e.g., "Selection Color").
-##Delete any sample code and paste:
+Click Manage → Write new style.
+Give it any name (e.g., "Selection Color").
+Delete any sample code and paste:
+```css
+::selection {
+    background: transparent !important;
+    color: inherit !important;
+}
+```
