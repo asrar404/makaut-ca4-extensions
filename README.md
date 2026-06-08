@@ -10,4 +10,4 @@
 
 5. [MaxAI](https://chromewebstore.google.com/detail/mhnlakgilnojmhinhkckjpncpbhabphi)
 
-6.[Stylus](https://chromewebstore.google.com/detail/clngdbkpkpeebahjckkjfobafhncgmne)
+6. [Stylus](https://chromewebstore.google.com/detail/clngdbkpkpeebahjckkjfobafhncgmne)
