@@ -9,3 +9,5 @@
 4. [AI Sider: ChatGPT + DeepSeek + Gemini](https://chromewebstore.google.com/detail/cpggpmmbmacgemcffkapmeadpnfnmkbm)
 
 5. [MaxAI](https://chromewebstore.google.com/detail/mhnlakgilnojmhinhkckjpncpbhabphi)
+
+6.[Stylus](https://chromewebstore.google.com/detail/clngdbkpkpeebahjckkjfobafhncgmne)
